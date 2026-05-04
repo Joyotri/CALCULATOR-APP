@@ -1,1 +1,1 @@
-# CALCULATOR-APP
+The Calculator App is a simple yet functional web-based application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a clean and user-friendly interface, allowing users to perform quick calculations efficiently.# CALCULATOR-APP
